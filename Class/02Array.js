@@ -35,4 +35,3 @@ let sc1=100;
 let sc2=200;
 let sc3=300;
 console.log(Array.of(sc1,sc2,sc3));//create a new array from given values no matter  
-

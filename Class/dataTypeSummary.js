@@ -28,5 +28,3 @@ const  myfun = function sum (){
 }
 
 //memory related story --stack and heap
-
-//string
